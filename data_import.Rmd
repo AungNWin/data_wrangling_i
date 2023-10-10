@@ -34,3 +34,7 @@ skimr::skim(litters_df)
 ```
 
 
+## Opitons to read_csv
+
+check out `?read_csv()` for more information. 
+
